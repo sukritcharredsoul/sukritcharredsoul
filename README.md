@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm [Sukrit Choudhary]
 
 
 ## 🚀 About Me
