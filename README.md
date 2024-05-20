@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Sukrit Choudhary]
+# 👋 Hi, I'm Sukrit Choudhary
 
 
 ## 🚀 About Me
