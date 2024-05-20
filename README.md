@@ -26,8 +26,8 @@ As a Student I'm still learning and experimenting to find my niche
 
 ## 📫 How to Reach Me
 
-- **Email:** [your.email@example.com](mailto:sukrtchoudhary18@gmail.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/sukrit-choudhary/)
+- **Email:** [sukritchoudhary18@gmail.com](mailto:sukrtchoudhary18@gmail.com)
+- **LinkedIn:** [linkedin.com/in/sukrit-choudhary/](https://www.linkedin.com/in/sukrit-choudhary/)
 
 
 ## 📈 GitHub Stats
