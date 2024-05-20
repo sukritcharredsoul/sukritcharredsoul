@@ -43,4 +43,4 @@ As a Student I'm still learning and experimenting to find my niche
 
 ---
 
-⭐️ From [Your GitHub Username](https://github.com/sukritcharredsoul)
+⭐️ From [Sukritcharredsoul](https://github.com/sukritcharredsoul)
