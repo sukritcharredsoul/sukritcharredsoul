@@ -34,7 +34,7 @@ As a Student I'm still learning and experimenting to find my niche
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sukritcharredsoul&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul)
 
 ## 🏆 Achievements
 
