@@ -8,9 +8,9 @@ I'm a passionate software developer with a strong interest in web development an
 ## 🛠️ Skills
 
 ### Programming Languages
-- **JavaScript**
-- **Python**
-- **C** 
+- **JavaScript/Node.js**
+- **Java**
+- **C/C++** 
 
 ### Web Development
 - **Frontend:** React, HTML5, CSS3
