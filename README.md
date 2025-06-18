@@ -39,8 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukritcharredsoul&theme=radical)](https://github.com/sukritcharredsoul)
-
 ---
 
 ## 📫 Get In Touch
