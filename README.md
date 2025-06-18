@@ -1,55 +1,54 @@
-<h1 align="center">Hey , I'm Sukrit Choudhary</h1>
+<h1 align="center">Hi 👋, I'm Sukrit Choudhary</h1>
 <h3 align="center">CS Undergrad · Developer · Cybersecurity Enthusiast</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm Sukrit — a Computer Science undergrad passionate about **software development**, **cloud tech**, and **cybersecurity**.
+Hello! I'm Sukrit — a Computer Science undergrad passionate about **full-stack development**, **cloud security**, and **open-source**.  
+I’m currently building scalable systems, improving my backend design patterns, and deepening my cloud and Linux skills.
 
-- 🧱 Currently building full-stack web applications
-- 💡 Exploring backend design patterns and system architecture
-- 🚀 Learning cloud infrastructure, Linux internals, and secure app development
-- 🔍 Always curious and experimenting with new technologies
+---
 
-<br/>
+## 📌 Pinned Repositories
 
-### 💻 Languages & Technologies
-
-<p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  </a>
+<p align="center">
+  <a href="https://github.com/sukritcharredsoul/DevJournal" title="DevJournal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritcharredsoul&repo=DevJournal&theme=radical" alt="DevJournal"/></a>
+  <a href="https://github.com/sukritcharredsoul/Hospital-Management-System" title="Hospital-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritcharredsoul&repo=Hospital-Management-System&theme=radical" alt="Hospital Management System"/></a>
+  <a href="https://github.com/sukritcharredsoul/Portfolio" title="Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritcharredsoul&repo=Portfolio&theme=radical" alt="Portfolio"/></a>
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 💼 Languages & Tools
 
-- 📧 **Email**: [sukritchoudhary18@gmail.com](mailto:sukritchoudhary18@gmail.com)  
-- 💼 **LinkedIn**: [linkedin.com/in/sukrit-choudhary](https://www.linkedin.com/in/sukrit-choudhary/)  
-- 💻 **GitHub**: [github.com/sukritcharredsoul](https://github.com/sukritcharredsoul)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Java/Java-original.svg"     width="48" height="48" title="Java" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/JavaScript/JavaScript-original.svg" width="48" height="48" title="JavaScript" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Cplusplus/Cplusplus-original.svg"   width="48" height="48" title="C++" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/React/React-original.svg"             width="48" height="48" title="React" alt="React"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Nodejs/Nodejs-original.svg"           width="48" height="48" title="Node.js" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Linux/Linux-original.svg"             width="48" height="48" title="Linux" alt="Linux"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Docker/Docker-original.svg"           width="48" height="48" title="Docker" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Git/Git-original.svg"                 width="48" height="48" title="Git" alt="Git"/>
+</p>
+
+---
+
+## 📜 Certifications
+
+- 📘 [Introduction to DevOps – Coursera](https://www.coursera.org/account/accomplishments/certificate/X54EDGP7LDRA)  
+- ☁️ More certifications coming soon...
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:sukritchoudhary18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/sukrit-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/sukritcharredsoul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 
 ---
 
