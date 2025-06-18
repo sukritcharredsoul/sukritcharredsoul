@@ -1,57 +1,62 @@
 <h1 align="center">Hi 👋, I'm Sukrit Choudhary</h1>
-<h3 align="center">CS Undergrad · Developer · Cybersecurity Enthusiast</h3>
-
----
-
-## 👨‍💻 About Me
-
-Hello! I'm Sukrit — a Computer Science undergrad passionate about **full-stack development**, **cloud security**, and **open-source**.  
-I’m currently building scalable systems, improving my backend design patterns, and deepening my cloud and Linux skills.
-
----
-
-## 📌 Pinned Repositories
+<h3 align="center">CS Undergrad | Full Stack Developer | Cybersecurity Enthusiast | OSS Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/sukritcharredsoul/DevJournal" title="DevJournal"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritcharredsoul&repo=DevJournal&theme=radical" alt="DevJournal"/></a>
-  <a href="https://github.com/sukritcharredsoul/Hospital-Management-System" title="Hospital-Management-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritcharredsoul&repo=Hospital-Management-System&theme=radical" alt="Hospital Management System"/></a>
-  <a href="https://github.com/sukritcharredsoul/Portfolio" title="Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sukritcharredsoul&repo=Portfolio&theme=radical" alt="Portfolio"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sukritcharredsoul&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
 </p>
 
 ---
 
-## 💼 Languages & Tools
+## 🧠 About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Java/Java-original.svg"     width="48" height="48" title="Java" alt="Java"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/JavaScript/JavaScript-original.svg" width="48" height="48" title="JavaScript" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Cplusplus/Cplusplus-original.svg"   width="48" height="48" title="C++" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/React/React-original.svg"             width="48" height="48" title="React" alt="React"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Nodejs/Nodejs-original.svg"           width="48" height="48" title="Node.js" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Linux/Linux-original.svg"             width="48" height="48" title="Linux" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Docker/Docker-original.svg"           width="48" height="48" title="Docker" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/master/icons/Git/Git-original.svg"                 width="48" height="48" title="Git" alt="Git"/>
-</p>
+I'm a Computer Science undergraduate driven by a passion for building scalable applications and exploring how systems work under the hood.  
+I enjoy developing full-stack solutions and sharpening my skills in cybersecurity and cloud systems.  
+I'm currently focused on writing clean, production-ready code, mastering system design (HLD/LLD), and contributing to impactful software projects.  
+
+> 💼 I aspire to join a fast-paced tech-driven company, build secure and intelligent products, and grow into a well-rounded software engineer.
 
 ---
 
-## 📜 Certifications
+## 💻 Languages & Technologies
 
-- 📘 [Introduction to DevOps – Coursera](https://www.coursera.org/account/accomplishments/certificate/X54EDGP7LDRA)  
-- ☁️ More certifications coming soon...
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
 
 ---
 
 ## 📫 Connect with Me
 
+- ✉️ [Email](mailto:sukritchoudhary18@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sukrit-choudhary/)  
+- 🔒 Exploring [Cybersecurity](https://owasp.org/)
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <a href="mailto:sukritchoudhary18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/sukrit-choudhary"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/sukritcharredsoul"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=sukritcharredsoul&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="streaks"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="top languages" />
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=100&section=footer"/>
-</p>
+⭐️ _Pinned repositories showcase my strongest work and active learning projects._
