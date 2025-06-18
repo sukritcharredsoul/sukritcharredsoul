@@ -20,7 +20,7 @@ I'm currently focused on writing clean, production-ready code, mastering system 
 ## 💻 Languages & Technologies
 
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,node,linux,mongodb,sql,java,)](https://skillicons.dev)
+  [My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,node,linux,mongodb,sql,java)
 </p>
 
 ---
