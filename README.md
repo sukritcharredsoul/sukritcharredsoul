@@ -34,11 +34,15 @@ I'm currently focused on writing clean, production-ready code, mastering system 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sukrit-choudhary/)  
 
 ---
-
-## GitHub Stats
+## Github Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sukritcharredsoul&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="top languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
