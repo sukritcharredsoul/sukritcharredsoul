@@ -21,7 +21,7 @@ I'm currently focused on writing clean, production-ready code, mastering system 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,c,cpp,linux,mysql,mongodb,git,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,c,cpp,linux,mysql,mongodb,git" />
   </a>
 </p>
 
