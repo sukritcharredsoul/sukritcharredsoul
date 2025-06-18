@@ -1,25 +1,47 @@
-<h1 align="center">Hi there 👋, I'm Sukrit Choudhary</h1>
+<h1 align="center">Hey , I'm Sukrit Choudhary</h1>
 <h3 align="center">CS Undergrad · Developer · Cybersecurity Enthusiast</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Hello! I'm Sukrit — a Computer Science undergrad with a passion for **building software**, **exploring cybersecurity**, and **contributing to impactful tech**.
+Hello! I'm Sukrit — a Computer Science undergrad passionate about **software development**, **cloud tech**, and **cybersecurity**.
 
-- 🔧 Currently building full-stack applications to sharpen my **backend and system design** skills.
-- 🌐 Interested in **cloud infrastructure**, **Java backend engineering**, and **open-source** work.
-- 🧠 Always exploring new technologies and evolving with industry standards.
+- 🧱 Currently building full-stack web applications
+- 💡 Exploring backend design patterns and system architecture
+- 🚀 Learning cloud infrastructure, Linux internals, and secure app development
+- 🔍 Always curious and experimenting with new technologies
+
+<br/>
+
+### 💻 Languages & Technologies
+
+<p align="left">
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  </a>
+</p>
 
 ---
 
