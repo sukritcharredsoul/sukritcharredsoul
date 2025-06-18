@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukrit Choudhary</h1>
-<h3 align="center">CS Undergrad | Full Stack Developer | Cybersecurity Enthusiast | OSS Learner</h3>
+<h3 align="center">CS Undergrad | Full Stack Developer | Cybersecurity Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sukritcharredsoul&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
@@ -17,7 +17,7 @@ I'm currently focused on writing clean, production-ready code, mastering system 
 
 ---
 
-## Languages & Tools
+## Languages and Frameworks
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -28,23 +28,14 @@ I'm currently focused on writing clean, production-ready code, mastering system 
 
 ---
 
-## 📫 Connect with Me
+## We Can Connect
 
 - ✉️ [Email](mailto:sukritchoudhary18@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/sukrit-choudhary/)  
-- 🔒 Exploring [Cybersecurity](https://owasp.org/)
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukritcharredsoul&show_icons=true&theme=radical" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="streaks"/>
-</p>
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="top languages" />
