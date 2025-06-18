@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukrit Choudhary</h1>
 <h3 align="center">CS Undergrad | Developer | CyberSec Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sukritcharredsoul&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -47,22 +43,6 @@
 
 - 📘 [Introduction to DevOps – Coursera](https://www.coursera.org/account/accomplishments/certificate/X54EDGP7LDRA)
 - ☁️ *More certifications in progress...*
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sukritcharredsoul&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="GitHub Streak" />
-</p>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sukritcharredsoul&theme=radical)](https://github.com/sukritcharredsoul)
 
 ---
 
