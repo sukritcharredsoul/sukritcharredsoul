@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 About Me
+## Who Am I ?
 
 I'm a Computer Science undergraduate driven by a passion for building scalable applications and exploring how systems work under the hood.  
 I enjoy developing full-stack solutions and sharpening my skills in cybersecurity and cloud systems.  
@@ -17,11 +17,14 @@ I'm currently focused on writing clean, production-ready code, mastering system 
 
 ---
 
-## 💻 Languages & Technologies
+## Languages & Tools
 
 <p align="left">
-  [My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,node,linux,mongodb,sql,java)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,c,cpp,linux,mysql,mongodb,git" />
+  </a>
 </p>
+
 
 ---
 
