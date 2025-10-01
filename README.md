@@ -26,11 +26,9 @@ I aspire to join a fast-paced tech-driven company, build secure and intelligent 
 ## Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sukritcharredsoul&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
-  <br/>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-  <br/>
-<p align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="GitHub Streak" />
 </p>
 
