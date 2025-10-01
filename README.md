@@ -1,10 +1,6 @@
 <h1 align="center">Hey I'm Sukrit Choudhary</h1>
 <h3 align="center">CS Undergrad | Full Stack Developer | Cybersecurity Enthusiast </h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sukritcharredsoul&label=Profile%20views&color=blueviolet&style=flat-square" alt="profile views"/>
-</p>
-
 
 ## Who Am I ?
 
@@ -26,11 +22,6 @@ I aspire to join a fast-paced tech-driven company, build secure and intelligent 
 
 ---
 
-## We Can Connect
-
-- ✉️ [Email](mailto:sukritchoudhary18@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/sukrit-choudhary/)  
-
 ---
 ## Github Stats
 <p align="center">
@@ -38,7 +29,7 @@ I aspire to join a fast-paced tech-driven company, build secure and intelligent 
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
+  <br/>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="GitHub Streak" />
 </p>
