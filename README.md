@@ -9,7 +9,6 @@ I enjoy developing full-stack solutions and sharpening my skills in cybersecurit
 I'm currently focused on writing clean, production-ready code, mastering system design (HLD/LLD), and contributing to impactful software projects.  
 I aspire to join a fast-paced tech-driven company, build secure and intelligent products, and grow into a well-rounded software engineer.
 
----
 
 ## Languages and Frameworks
 
@@ -31,6 +30,12 @@ I aspire to join a fast-paced tech-driven company, build secure and intelligent 
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="GitHub Streak" />
 </p>
+
+<br>
+<br>
+
+![Your GitHub Radar](https://github-profile-summary-cards.vercel.app/api/cards/radar?username=sukritcharredsoul&theme=github)
+
 
 ---
 
