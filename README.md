@@ -1,5 +1,5 @@
 <h1 align="center">Hey I'm Sukrit Choudhary</h1>
-<h3 align="center">CS Undergrad | Full Stack Developer | Cybersecurity Enthusiast </h3>
+<h3 align="center">CS Prefinal Year | Full Stack Developer | Cybersecurity Enthusiast </h3>
 
 
 ## Github Stats
