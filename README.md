@@ -2,14 +2,6 @@
 <h3 align="center">CS Undergrad | Full Stack Developer | Cybersecurity Enthusiast </h3>
 
 
-## Who Am I ?
-
-I'm a Computer Science undergraduate driven by a passion for building scalable applications and exploring how systems work under the hood.  
-I enjoy developing full-stack solutions and sharpening my skills in cybersecurity and cloud systems.  
-I'm currently focused on writing clean, production-ready code, mastering system design (HLD/LLD), and contributing to impactful software projects.  
-I aspire to join a fast-paced tech-driven company, build secure and intelligent products, and grow into a well-rounded software engineer.
-
-
 ## Languages and Frameworks
 
 <p align="center">
