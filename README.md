@@ -2,15 +2,6 @@
 <h3 align="center">CS Undergrad | Full Stack Developer | Cybersecurity Enthusiast </h3>
 
 
-## Languages and Frameworks
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,html,css,c,cpp,linux,mysql,mongodb,git" />
-  </a>
-</p>
-
-
 ---
 
 ---
