@@ -8,7 +8,7 @@
   <br>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sukritcharredsoul&layout=compact&theme=radical" alt="Top Languages" />
   <br>
-  <img src="https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-sigma-six.herokuapp.com/?user=sukritcharredsoul&theme=radical" alt="GitHub Streak" />
 </p>
 
 
