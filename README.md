@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE @ Chitkara University | Full-Stack Dev | Cybersecurity Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+full-stack+apps;Learning+cybersecurity+%26+OSINT;Solving+DSA+problems+daily;Open+to+opportunities+in+Europe" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+full-stack+apps;Learning+to BE  a better dev ;Solving+DSA+problems+daily;Open+to+opportunities for SDE" alt="Typing SVG" />
 </p>
 
 ---
@@ -64,15 +64,14 @@ Observability & Monitoring
 DevOps & Cloud
 
 <p align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/> </p>
-📊 GitHub Stats
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" /> </p>
+
 ✍️ Latest Blog Posts
 
 I write about cloud, systems, and infrastructure concepts on Medium.
 
-Solaris Containers: Old School Containerization — a look at Solaris zones as an early precursor to Docker-style virtualization, and how the concepts compare to modern containerization
-Latency vs Throughput — breaking down two core networking performance metrics and how they differ
-Chaos Engineering — an intro to deliberately testing systems for failure resilience rather than waiting for outages
+### Solaris Containers: Old School Containerization — a look at Solaris zones as an early precursor to Docker-style virtualization, and how the concepts compare to modern containerization
+### Latency vs Throughput — breaking down two core networking performance metrics and how they differ
+### Chaos Engineering — an intro to deliberately testing systems for failure resilience rather than waiting for outages
 <p align="center"> <a href="https://sukritishere.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> </p>
 📫 Connect With Me
 <p align="left"> <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> <p align="center"><i>⭐ From <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> — replace YOUR_USERNAME, YOUR_LINKEDIN, and YOUR_EMAIL before use.</i></p>
