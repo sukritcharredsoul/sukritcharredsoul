@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukrit</h1>
-<h3 align="center">B.Tech CSE @ Chitkara University | Full-Stack Dev | Cybersecurity Enthusiast</h3>
-
-<h1 align="center">Hi 👋, I'm Charredsoul</h1> <h3 align="center">B.Tech CSE @ Chitkara University | Full-Stack Dev | Cybersecurity Enthusiast</h3> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+full-stack+apps;Swiss+Knife+Developer;Solving+DSA+problems+daily;Open+to+opportunities+for+SDE" alt="Typing SVG" /> </p>
+<h3 align="center">B.Tech CSE @ Chitkara University | Full-Stack Dev | Cybersecurity Enthusiast</h3><p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Building+full-stack+apps;Swiss+Knife+Developer;Solving+DSA+problems+daily;Open+to+opportunities+for+SDE" alt="Typing SVG" /> </p>
 
 ---
 
