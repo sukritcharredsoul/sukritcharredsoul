@@ -9,19 +9,16 @@
 
 ### 🧭 About Me
 
-- 🎓 B.Tech Computer Science student, currently deep in placement + internship prep
+- 🎓 B.Tech Computer Science student, currently exploring AI workflows.
 - 🔐 Long-term focus: cybersecurity specialization (OSINT & digital forensics track)
-- 💻 Also building full-stack projects and grinding DSA for SDE-1 interviews
-- 🌍 Exploring MS programs in Europe post-graduation (Germany, DAAD-focused research)
+- 💻 Building Full-Stack Application and learning new cool stuff about AI
 - ⚡ Fun fact: I audit my own code like I'm expecting a red team to show up
 
 ---
 
 ### 🌱 Currently Learning
 
-- **AI/ML Certification Track** — working through a beginner → advanced cert path with hands-on projects, eventually merging AI/ML with security work
-- **SQL & Data Analytics** — deepening joins, aggregations, and EDA (Pandas) for data analytics interviews
-- **DSA (Interview-focused)** — recursion & backtracking, graphs, and DP via Striver's A2Z Sheet + NeetCode, pattern-based tree problems
+- **AI/ML Certification Track** — working through a beginner → advanced cert path with hands-on projects, eventually merging AI/ML with security work.
 - **JavaScript Internals** — execution context, closures, prototypes, the event loop, async patterns (YDKJS, javascript.info, Lydia Hallie)
 
 ### 📚 Previously Studied / Explored
@@ -58,20 +55,8 @@
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</p>
-
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=sukritcharredsoul&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukritcharresoul &layout=compact&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" /> </p>
 ---
 
 ### 📫 Connect With Me
