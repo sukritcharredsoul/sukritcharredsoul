@@ -12,14 +12,9 @@
 
 ---
 
-### 🌱 Currently Learning
-
-- **AI/ML Certification Track** — working through a beginner → advanced cert path with hands-on projects, eventually merging AI/ML with security work.
-- **JavaScript Internals** — execution context, closures, prototypes, the event loop, async patterns (YDKJS, javascript.info, Lydia Hallie)
 
 ### 📚 Previously Studied / Explored
 
-- **OSINT & Digital Forensics** — TraceLabs, CyberDefenders, Volatility 3, Maltego workflows
 - **Cloud & Security Fundamentals** — AWS certification prep across Messaging, DevOps, Security, and Containerization
 - **Java OOP** — composition vs. inheritance, UML relationships, diamond problem, virtual inheritance
 - **Full-Stack Development** — React, Node.js/Express, MongoDB, REST API design
@@ -79,4 +74,5 @@ An intro to deliberately breaking things in a controlled way, so systems are pro
 
 <p align="center"> <a href="https://sukritishere.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a> </p>
 📫 Connect With Me
-<p align="left"> <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> <p align="center"><i>⭐ From <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a> — replace YOUR_USERNAME, YOUR_LINKEDIN, and YOUR_EMAIL before use.</i></p>
+<p align="center"> <a href="https://linkedin.com/in/sukrit-choudhary" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sukritchoudhary18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> </p> <p align="center"><i><a href="https://github.com/anuraghazra/github-readme-stats"></i></p>
